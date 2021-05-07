@@ -237,6 +237,7 @@ footer a {
 .contact {
   text-align: center;
   background: #024e76;
+  padding-bottom: 50px;
 }
 
 .contact h2 {
@@ -256,6 +257,7 @@ footer a {
   text-align: left;
   margin: 30px 0 0 60px;
   color: white;
+
 }
 
 .contact-info h3 {
