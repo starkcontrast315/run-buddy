@@ -70,7 +70,7 @@ footer a {
   height: 600px;
   background-image: url("../images/hero-bg.jpg");
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
   position: relative;
 }
 
@@ -164,7 +164,6 @@ footer a {
 .steps div {
   padding-bottom: 50px;
   margin-bottom: 30px;
-
 }
   
 .steps img {
@@ -237,7 +236,8 @@ footer a {
 .contact {
   text-align: center;
   background: #024e76;
-  padding-bottom: 50px;
+  padding-bottom: 55px;
+  margin-bottom: 10px;
 }
 
 .contact h2 {
@@ -253,10 +253,10 @@ footer a {
 .contact-info div {
   width: 410px;
   display: inline-block;
-  vertical-align: top;
   text-align: left;
   margin: 30px 0 0 60px;
   color: white;
+  vertical-align: top;
 
 }
 
@@ -276,4 +276,3 @@ footer a {
   color: #fce138;
 }
 
-/* REACH OUT STYLES END */
