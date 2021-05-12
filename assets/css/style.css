@@ -58,7 +58,7 @@ footer {
 
 footer div {
  float: right;
-  line-height: 1.5;
+ line-height: 1.5;
  text-align: right;
 }
 
@@ -70,7 +70,7 @@ footer a {
   height: 600px;
   background-image: url("../images/hero-bg.jpg");
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   position: relative;
 }
 
@@ -128,7 +128,6 @@ footer a {
   text-align: center;
   padding-top: 30px;
 }
-
 
 .intro p {
   line-height: 1.7;
